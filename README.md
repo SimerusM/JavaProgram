@@ -12,13 +12,13 @@ DatabaseProgram is a lightweight, console-based Java application designed to sim
 ## How to Run
 Ensure you have Java installed on your machine. You can download and install Java from [Oracle's official website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 
-1. Clone the repository to your local machine:
+1. **Clone the repository to your local machine**:
    git clone [https://github.com/SimerusM/SimpleDatabase.git](https://github.com/SimerusM/JavaProgram.git)
-2. Navigate to the cloned repository:
+2. **Navigate to the cloned repository**:
    cd JavaProgram
-3. Compile the Java file:
+3. **Compile the Java file**:
    javac DatabaseProgram.java
-4. Run the application:
+4. **Run the application**:
    java DatabaseProgram
 
 ## Usage
